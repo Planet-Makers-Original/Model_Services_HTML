@@ -21,3 +21,8 @@ Este script é de domínio público e pode ser usado livremente.
 ### Contato:
 
 - Você pode me contatar pelo e-mail [planet.makers.original@gmail.com](mailto:planet.makers.original@gmail.com)
+
+
+### Link:
+
+https://bluesky-swart.vercel.app/
